@@ -1,4 +1,4 @@
-package com.awesomeproject1
+package com.sameen.chatbot
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate

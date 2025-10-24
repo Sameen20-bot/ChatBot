@@ -1,4 +1,4 @@
-package com.awesomeproject1
+package com.sameen.chatbot
 
 import android.app.Application
 import com.facebook.react.PackageList

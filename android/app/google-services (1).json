@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "31882522129",
+    "project_id": "chatbot-f333c",
+    "storage_bucket": "chatbot-f333c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31882522129:android:92fd0c7df58a0ed8a6cbb0",
+        "android_client_info": {
+          "package_name": "com.sameen.chatbot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChdHMAp0ltCqehccSjlvhM9xOzWZ06C_4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
