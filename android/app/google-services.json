@@ -12,7 +12,12 @@
           "package_name": "com.sameen.chatbot"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "31882522129-4rn80vps9lv5fhogcui8abhadqbe1a4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyChdHMAp0ltCqehccSjlvhM9xOzWZ06C_4"
@@ -20,7 +25,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31882522129-4rn80vps9lv5fhogcui8abhadqbe1a4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
